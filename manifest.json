@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "X Age Verification Off",
+  "name": "X Unrestricted",
   "version": "1.0.0",
-  "description": "Disables age verification on X permanently.",
+  "description": "Customize your X browsing preferences for a seamless, uninterrupted content experience.",
   "author": "anjinho",
   "icons": {
     "16": "icons/icon.png",
